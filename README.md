@@ -3,7 +3,7 @@
 - 🌱 I'm a 1st year computer science student at the University of Calgary. Learning CSS, HTML, JavaScript, and Java.
 - 📫 How to reach me austinsimmons098@gmail.com
 - 💞️ Below are a few links to projects:
--    https://auzbud.github.io/etch-a-sketch/ -In browser etch-a-sketch
+-    https://austinjsimmons.github.io/etch-a-sketch/ -In browser etch-a-sketch
 
 <!--
 **AustinJSimmons/AustinJSimmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
