@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Austin Simmons
+- 👀 I’m interested in astronomy, statistics, algorithms, UI design, and everything I can dip my toes in the field of computer science!
+- 🌱 I'm a 1st year computer science student at the University of Calgary. Learning CSS, HTML, JavaScript, and Java.
+- 📫 How to reach me austinsimmons098@gmail.com
+- 💞️ Below are a few links to projects:
+-    https://auzbud.github.io/etch-a-sketch/ -In browser etch-a-sketch
 
 <!--
 **AustinJSimmons/AustinJSimmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
