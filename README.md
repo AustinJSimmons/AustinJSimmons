@@ -1,6 +1,6 @@
 # Philosophy
-Human ingenuity,
-Over AI slop..
+Human ingenuity,  
+Over AI slop..  
 LLMs destroy free thought.
 
 But hey still a great search engine upgrade.
