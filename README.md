@@ -1,3 +1,20 @@
+# Philosophy
+Human ingenuity,
+Over AI slop..
+LLMs destroy free thought.
+
+But hey still a great search engine upgrade.
+
+# "Current" Interest
+I want to understand the fundamental architectures that enabled technology like ray tracing and rasterization. So I'm looking to
+figure out how GPUs process graphics from the ground up. Check out the projects below to see where I'm at!
+
+### Contact Info
+If you find any issues in my projects or just want to chat:
+
+[!LinkedIn](https://www.linkedin.com/in/austin-simmons-77953322a/)
+[!Email](austinsimmons098@gmail.com)
+[!X](https://x.com/AustinS098) - I don't really use this
 
 
 <!--
