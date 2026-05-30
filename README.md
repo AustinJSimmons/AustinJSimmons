@@ -1,9 +1,9 @@
-# Philosophy
+# Thoughts on AI
 Human ingenuity,  
 Over AI slop..  
 LLMs destroy free thought.
 
-But hey still a great search engine upgrade.
+Still a great search engine upgrade.
 
 # "Current" Interest
 I want to understand the fundamental architectures that enabled technology like ray tracing and rasterization. So I'm looking to
