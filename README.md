@@ -1,9 +1,5 @@
 # Thoughts on AI
-Human ingenuity,  
-Over AI slop..  
-LLMs destroy free thought.
-
-Still a great search engine upgrade.
+An overhyped search engine and autocomplete upgrade.
 
 # "Current" Interest
 I want to understand the fundamental architectures that enabled technology like ray tracing and rasterization. So I'm looking to
