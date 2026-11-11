@@ -1,7 +1,3 @@
-# "Current" Interest
-I want to understand the fundamental architectures that enabled technology like ray tracing and rasterization. So I'm looking to
-figure out how GPUs process graphics from the ground up. Check out the projects below to see where I'm at!
-
 ### Contact Info
 If you find any issues in my projects or just want to chat:
 
